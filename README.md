@@ -1,2 +1,2 @@
-# Mom-s-Touch-Cookbooks---website
-This is the implementation website with Github pages linking to the project video.
+# Mom's Touch Cookbooks - redirect page.
+A simple webpage to redirect to the project video.
